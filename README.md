@@ -18,4 +18,6 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Aluno A (owner): Marco Guilherme Lima Farias 2612682
+- Aluno B: Samuel Cavalcante Silva da Silva 2612704
+- Aluno C: Pedro Henrique Farias Guerra 2612727
